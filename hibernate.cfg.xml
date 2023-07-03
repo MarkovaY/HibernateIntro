@@ -16,7 +16,7 @@
             root
         </property>
         <property name="hibernate.connection.password">
-            JavaDBMay2023-
+            1234
         </property>
         <property name="hbm2ddl.auto">
             update
